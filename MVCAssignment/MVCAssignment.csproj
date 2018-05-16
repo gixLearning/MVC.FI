@@ -123,6 +123,7 @@
     <Content Include="Views\Page\About.cshtml" />
     <Content Include="Views\Page\Contact.cshtml" />
     <Content Include="Views\Page\Projects.cshtml" />
+    <Content Include="Views\Shared\_FooterView.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
