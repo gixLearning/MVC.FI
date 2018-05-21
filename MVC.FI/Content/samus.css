@@ -47,3 +47,6 @@ ul.skill-icons {
 .devicons.devicons-visualstudio:hover {
     color: rebeccapurple;
 }
+.no-left-padding {
+    padding-left: 0;
+}
