@@ -92,6 +92,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\devicons.min.css" />
+    <Content Include="Content\images\cat.png" />
     <Content Include="Content\samus.css" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\devicons.svg" />
